@@ -1,0 +1,4 @@
+Python
+======
+
+Some python exercises
